@@ -5,7 +5,7 @@ Documentation Guidelines
 .. contents::
    :local:
 
-Introduction-testing
+Introduction
 ============
 
 QGIS Documentation will
