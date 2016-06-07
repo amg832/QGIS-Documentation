@@ -9,10 +9,11 @@ Preamble
 ********
 
 This document is the original user guide of the described software
-QGIS. The software and hardware described in this document are in most
-cases registered trademarks and are therefore subject to legal
-requirements. QGIS is subject to the GNU General Public License. Find
-more information on the QGIS homepage, http://www.qgis.org.
+Quantum Geographic Information System (QGIS). The software and hardware
+described in this document are in most cases registered trademarks and
+are therefore subject to legal requirements. QGIS is subject to the 
+GNU General Public License. Find more information on the QGIS website
+at http://www.qgis.org.
 
 The details, data, and results in this document have been written and
 verified to the best of the knowledge and responsibility of the
@@ -58,6 +59,7 @@ form, the browser displays and handles both identically.
 +--------------------+---------------------+----------------------+----------------------+----------------------+ 
 | Astrid Emde        | Yves Jacolin        | Alexandre Neto       | Andy Schmid          | Hien Tran-Quang      | 
 +--------------------+---------------------+----------------------+----------------------+----------------------+
+
 
 
 Copyright (c) 2004 - 2014 QGIS Development Team
